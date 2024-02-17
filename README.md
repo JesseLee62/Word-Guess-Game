@@ -16,4 +16,5 @@ python word-guess-game anat19.txt
 You can replace "anat19" to any other text file.
 
 ## Sample run of the game:
-![image](https://github.com/JesseLee62/img-storage/blob/master/word-guess-game/word-guess-game.jpg)
+![image](https://github.com/JesseLee62/img-storage/blob/master/word-guess-game/demo1.jpg)
+![image](https://github.com/JesseLee62/img-storage/blob/master/word-guess-game/demo2.jpg)
